@@ -34,10 +34,4 @@ Run the Python file:
 
 python Comp3005_A3.py
 
-What it shows
 
-How to write SQL functions for CRUD operations.
-
-How to connect Python to PostgreSQL.
-
-How to call database functions from Python.
