@@ -1,5 +1,8 @@
 COMP 3005 - Assignment 3
 
+Demo Video Link:
+https://youtu.be/NbPT9b0n_zs
+
 This project is a small Student Database demo that uses PostgreSQL and Python.
 
 The program can:
